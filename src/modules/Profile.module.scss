@@ -1,0 +1,11 @@
+.profile-box{
+    display: flex;
+    flex-direction: column;
+
+    .profile-title{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 30px;
+    }
+}
